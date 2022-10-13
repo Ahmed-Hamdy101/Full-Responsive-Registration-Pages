@@ -1,0 +1,44 @@
+@import url(https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap);
+html, body {
+  height: 100%;
+  overflow-x: hidden;
+  margin: 0%;
+  padding: 0%;
+}
+
+#login {
+  font-family: rosmatika;
+  font-size: 2.5em;
+  font-weight: bold;
+  font-size: 72px;
+  background: -webkit-linear-gradient(rgba(25, 136, 127, 0.884), rgba(221, 17, 129, 0.699));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-top: 190px;
+}
+
+.login-cover {
+  background: url('../../img/6.jpg') no-repeat center center;
+  background-size: cover;
+  height: 100%;
+}
+
+.md-form .form-control {
+  height: auto;
+  padding: 2rem 0 0.4rem 0;
+  margin: 0 0 0.5rem 0;
+  background-color: transparent;
+  border-radius: 0;
+}
+
+.btn.btn-sm {
+  padding: 0.5rem 1.6rem;
+  font-size: 0.64rem;
+  border-radius: 2rem;
+}
+
+.btn.btn-block {
+  padding: 0.5rem 1.6rem;
+  font-size: 0.64rem;
+  border-radius: 2rem;
+}
